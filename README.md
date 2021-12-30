@@ -19,6 +19,10 @@ A single token may be split into more than one word based on the following crite
 
 ### Glosses and their mapping onto UD features
 
+<details>
+  <summary>Mapping table</summary>
+
+
 | Gloss            | UD                                              |
 |------------------|-------------------------------------------------|
 |                3 | Person=3                                        |
@@ -197,7 +201,8 @@ A single token may be split into more than one word based on the following crite
 | vbz              | -                                               |
 | voc              | Case=Voc                                        |
 
-
+</details>
+  
 ## Syntax
 
 * WIP
